@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-sec-1{
+    background-color: #feee00;
+}
+.noon-logo{
+    margin: 20px 25px;
+}
+.nav-logo-2{
+    line-height: 20px;
+}
+.deliv-text{
+    margin-left: 10px;
+}
+.d-icon{
+    margin: 0px 10px;
+}
+input{
+    width: 900px;
+    height: 5vh;
+    border: 1px;
+    border-radius: 10px;
+    padding: 0px 10px;
+}
+.nav-sec-1-list{
+    margin: 0px 30px;
+    word-spacing: 3px;
+    letter-spacing: 0.5px;
+}
+.nav-sec-2-list-head{
+    color: blue;
+    font-weight: bold;
+    margin: 10px 20px;
+}
+.nav-sec-2-list{
+    font-weight: bold;
+    margin: 0px 15px;
+}
+#bar{
+    display: none;
+}
+.cat-list{
+    margin: 0px 18px;
+}
+img{
+    cursor: pointer;
+}
+.more-reason-card-box{
+    background-color: #e6e6e6;
+}
+.more-reason-card-box-2{
+    background-color: #fcd5d5;
+}
+.bg-lb{
+    background-color: #dedee4;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 800px){
+    .nav-sec-1-list{
+        display: none;
+    }
+    input{
+        display: none;
+    }
+    #bar{
+        display: flex;
+        font-size: 30px;
+    }
+}
