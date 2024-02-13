@@ -62,7 +62,15 @@ img{
     background-color: #d2ecfc;
     border-radius: 10px;
 }
-
+.bg-lp{
+    background-color: #ffe4f2;
+    border-radius: 10px;
+}
+.view-button{
+    padding: 15px;
+    border: 1px solid black;
+    background-color: #ffff;
+}
 
 
 
